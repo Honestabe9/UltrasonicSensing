@@ -2,7 +2,7 @@
 Made use of an ultrasonic sensor which works with Arduino
 **Elements**
 
-These are the needed items:
+Needed items inlcude the following:
 
 - 1x _ELEGOO UNO R3_ (Arduino-Compatible MCU Board)
 - 1x Ultrasonic Sensor Module (HC-SR04)
