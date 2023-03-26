@@ -14,7 +14,7 @@ Needed items inlcude the following:
 
 **Schematic**
 
-![Image](https://user-images.githubusercontent.com/46213695/227797045-4e9e125f-39a4-446b-9a01-8be919c82c25.png)
+![Image](https://user-images.githubusercontent.com/46213695/227797867-08ba3609-52d7-4756-aa14-329b1854f82e.jpg)
 
 - VCC  (Voltage Common Collector) Pin → 5V (Power)
 - Trigger Pin → Digital Pin #12 (Master In Slave Out)
