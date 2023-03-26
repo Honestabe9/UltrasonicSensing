@@ -5,11 +5,11 @@ Made use of an ultrasonic sensor which works with Arduino
 
 Needed items inlcude the following:
 
-- 1x _ELEGOO UNO R3_ (Arduino-Compatible MCU Board)
-- 1x Ultrasonic Sensor Module (HC-SR04)
-- 4x F-M (Female-to-Male) DuPont wires
-- 1x Some personal computer device capable of having the interface with the Arduino application (desktop, laptop, et cetera) 
-- 1x USB 2.0 Type A/B (A-male to B-male) Cord
+- 1x - _ELEGOO UNO R3_ (Arduino-Compatible MCU Board)
+- 1x - Ultrasonic Sensor Module (HC-SR04)
+- 4x - F-M (Female-to-Male) DuPont wires
+- 1x - Some personal computer device capable of having the interface with the Arduino application (desktop, laptop, et cetera) 
+- 1x - USB 2.0 Type A/B (A-male to B-male) Cord
 
 
 **Schematic**
